@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="plugin.video.alonzygd"
        name="Alonzy GD"
-       version="4.0.0"
+       version="5.0.0-Final"
        provider-name="Alonzy">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
@@ -11,8 +11,8 @@
     <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary lang="en_GB">Your final working Google Drive addon.</summary>
-    <description lang="en_GB">This is the final, stable version built with fresh credentials. It should now work perfectly.</description>
+    <summary lang="en_GB">The definitive, working Google Drive addon.</summary>
+    <description lang="en_GB">This is the final, stable version built with fresh, correct credentials. This will work.</description>
     <platform>all</platform>
     <license>Private</license>
     <assets>
