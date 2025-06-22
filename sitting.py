@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<settings>
-    <setting id="gdrive.access_token" type="text" label="Access Token" default="" visible="false"/>
-    <setting id="gdrive.refresh_token" type="text" label="Refresh Token" default="" visible="false"/>
-    <setting id="gdrive.expires_at" type="text" label="Expires At" default="" visible="false"/>
-</settings>
